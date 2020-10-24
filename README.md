@@ -1,5 +1,5 @@
 # Constellation project [pegasus]
- Content management application
+ A simple website in reacJs
  ## Tools used
  * Reactjs
  * Materializecss
